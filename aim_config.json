@@ -1,0 +1,10 @@
+{
+    "smooth_x": 0.8,
+    "smooth_y": 0.35,
+    "max_disp": 83.0,
+    "conf": 0.4,
+    "aim_part": 0.15,
+    "deadzone": 2.1,
+    "kp": 0.32,
+    "kd": 0.015
+}

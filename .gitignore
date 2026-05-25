@@ -1,3 +1,6 @@
-output/
+tempCodeRunnerFile.py
+备份*.py
+*.csv
 __pycache__/
-*.py[cod]
+*.pyc
+output/
